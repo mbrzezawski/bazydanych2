@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "surname": "Kowalski",
+  "name": "Jan",
+  "login": [
+    {
+      "login": "jan_kowalski",
+      "password": "password123",
+      "email": "jan.kowalski@example.com"
+    }
+  ],
+  "reserved": [
+    {
+      "reservationId": "1",
+      "hour": "10:00",
+      "date": "2024-06-05",
+      "fieldId": 2
+    }
+  ]
+}
